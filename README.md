@@ -1,6 +1,4 @@
-# MCP Learn
-
-## Installation
+# Installation
 
 Add the following installation step to your MCP configuration:
 
